@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Invenio Talk 📢
+    url: https://invenio-talk.web.cern.ch/
+    about: Find announcements, discussions, recipes and much more in the Invenio Talk forum.
+  - name: Invenio chatroom 💬
+    url: https://discord.gg/8qatqBC
+    about: Join our chatroom where most developers and maintainers of Invenio hangout during their regular working hours.
