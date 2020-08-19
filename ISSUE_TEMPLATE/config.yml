@@ -1,8 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Invenio Talk 📢
+  - name: Support questions 💬
     url: https://invenio-talk.web.cern.ch/
     about: Find announcements, discussions, recipes and much more in the Invenio Talk forum.
-  - name: Invenio chatroom 💬
-    url: https://discord.gg/8qatqBC
-    about: Join our chatroom where most developers and maintainers of Invenio hangout during their regular working hours.
+  - name: Report a security issue 🚨
+    url: https://invenio.readthedocs.io/en/latest/community/security-policy.html#reporting-security-issues
+    about: In case of a security issue, please follow the instructions in the documentation
+  - name: Propose a change to Invenio 📝
+    url: https://github.com/inveniosoftware/rfcs/
+    about: Would you like to propose a change to Invenio? RFC is what you are looking for!
