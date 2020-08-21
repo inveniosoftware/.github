@@ -1,11 +1,11 @@
 blank_issues_enabled: true
 contact_links:
-  - name: "Support questions :speech_balloon:"
+  - name: Support questions \U0001F4AC
     url: https://invenio-talk.web.cern.ch/
     about: Find announcements, discussions, recipes and much more in the Invenio Talk forum.
-  - name: "Report a security issue :rotating_light:"
+  - name: Report a security issue \U0001F6A8
     url: https://invenio.readthedocs.io/en/latest/community/security-policy.html#reporting-security-issues
     about: In case of a security issue, please follow the instructions in the documentation
-  - name: "Propose a change to Invenio :memo:"
+  - name: Propose a change to Invenio \U0001F4DD
     url: https://github.com/inveniosoftware/rfcs/
     about: Would you like to propose a change to Invenio? RFC is what you are looking for!
