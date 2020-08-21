@@ -1,10 +1,10 @@
-❤️ Thank you for your contribution!
+:heart: Thank you for your contribution!
 
 ## Description
 Please describe briefly your pull request.
 
 ## Your checklist for this pull request
-🚨 Please review the [guidelines for contributing](https://invenio.readthedocs.io/en/latest/community/contribution-guide.html) to Invenio.
+:rotating_light: Please review the [guidelines for contributing](https://invenio.readthedocs.io/en/latest/community/contribution-guide.html) to Invenio.
 
 - [ ] Did you create different commits for logically separate things? Check [the format](https://invenio.readthedocs.io/en/latest/community/contribution-guide.html#commit-messages) of the commit(s) message(s).
 - [ ] Check your code additions will fail neither code linting checks nor tests and will not decrease test coverage.
