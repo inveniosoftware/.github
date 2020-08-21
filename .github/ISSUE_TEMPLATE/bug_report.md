@@ -1,10 +1,7 @@
 ---
 name: Bug report
 about: Create a report of a bug
-title: ''
 labels: bug
-assignees: ''
-
 ---
 
 Package version (if known): <version>
