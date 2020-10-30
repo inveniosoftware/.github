@@ -1,6 +1,6 @@
 {
-    "name": "PyPi publishing",
-    "description": "Python package publishing to PyPi",
+    "name": "PyPI publishing",
+    "description": "Python package publishing to PyPI",
     "iconName": "pypi-icon",
     "categories": [
         "Python"
