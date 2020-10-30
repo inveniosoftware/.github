@@ -1,0 +1,11 @@
+{
+    "name": "Run tests",
+    "description": "Installs python dependencies and runs the run-tests.sh script.",
+    "iconName": "run-tests",
+    "categories": [
+        "Python"
+    ],
+    "filePatterns": [
+        "^setup.py"
+    ]
+}
