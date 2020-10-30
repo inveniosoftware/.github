@@ -21,10 +21,10 @@ jobs:
 
       - name: Install and Build
         run: |
-          npm ci
+          npm install
           npm run build
 
       - name: Publish on NPM
         run: npm publish
-          env:
-            NODE_AUTH_TOKEN: ${{secrets.npm_token}}
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.npm_token}}
