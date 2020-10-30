@@ -1,0 +1,11 @@
+{
+    "name": "NPM publishing",
+    "description": "JavaScript package publishing to NPM",
+    "iconName": "npm-icon",
+    "categories": [
+        "JavaScript"
+    ],
+    "filePatterns": [
+        "^package.json"
+    ]
+}
