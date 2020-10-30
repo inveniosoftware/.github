@@ -1,6 +1,6 @@
 {
-    "name": "PyPI publishing",
-    "description": "Python package publishing to PyPI",
+    "name": "Publish an Invenio Module",
+    "description": "Publish an Invenio module to Python Package Index.",
     "iconName": "pypi-icon",
     "categories": [
         "Python"

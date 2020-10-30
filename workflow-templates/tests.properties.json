@@ -1,5 +1,5 @@
 {
-    "name": "Run tests",
+    "name": "Invenio module",
     "description": "Installs python dependencies and runs the run-tests.sh script.",
     "iconName": "run-tests",
     "categories": [

@@ -17,13 +17,13 @@ on:
 
 jobs:
   Tests:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     strategy:
       matrix:
           python-version: [3.6, 3.7, 3.8]
           # You can add more combinations e.g. dev requirements or MySQL by adding
           # a new item to this list. Add its corresponding definition below.
-          # EXTRAS, REQUIREMENTS
+          # EXTRAS and REQUIREMENTS_LEVEL are always needed.
           services: [release, lowest]
           include:
           - services: release
@@ -63,9 +63,6 @@ jobs:
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('.${{ matrix.REQUIREMENTS_LEVEL }}-${{ matrix.python-version }}-requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-            ${{ runner.os }}-
 
       - name: Install dependencies
         run: |
