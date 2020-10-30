@@ -1,5 +1,5 @@
 {
-    "name": "Publish an Invenio Module",
+    "name": "Publish an Invenio Python Module",
     "description": "Publish an Invenio module to Python Package Index.",
     "iconName": "pypi-icon",
     "categories": [
