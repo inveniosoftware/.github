@@ -1,6 +1,6 @@
 {
-    "name": "Publish an Invenio JavaScript Module",
-    "description": "Publish an Invenio module to NPM",
+    "name": "NPM publishing",
+    "description": "JavaScript package publishing to NPM",
     "iconName": "npm-icon",
     "categories": [
         "JavaScript"
