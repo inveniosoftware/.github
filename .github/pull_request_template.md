@@ -4,7 +4,7 @@
 Please describe briefly your pull request.
 
 ### Checklist
-:rotating_light: Please review the [guidelines for contributing](https://invenio.readthedocs.io/en/latest/community/contribution-guide.html) to Invenio.
+:rotating_light: Please review the [guidelines for contributing](https://invenio.readthedocs.io/en/latest/community/contributing/contribution-guide.html) to Invenio.
 
 - [ ] Did you create different commits for logically separate things? Check [the format](https://invenio.readthedocs.io/en/latest/community/contributing/contribution-guide.html#commit-messages) of the commit(s) message(s).
 - [ ] [InvenioRDM specific] Did you follow the style guide?  Check [the documentation](https://inveniordm.docs.cern.ch/maintenance/styleguide/).
