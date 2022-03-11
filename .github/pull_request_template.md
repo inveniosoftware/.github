@@ -1,37 +1,31 @@
 :heart: Thank you for your contribution!
 
 ### Description
+
 Please describe briefly your pull request.
 
 ### Checklist
-:rotating_light: Please review the [guidelines for contributing](https://invenio.readthedocs.io/en/latest/community/contributing/contribution-guide.html) to Invenio.
 
-- [ ] Did you create different commits for logically separate things? Check [the format](https://invenio.readthedocs.io/en/latest/community/contributing/contribution-guide.html#commit-messages) of the commit(s) message(s).
-- [ ] [InvenioRDM specific] Did you follow the style guide?  Check [the documentation](https://inveniordm.docs.cern.ch/maintenance/styleguide/).
-- [ ] [InvenioRDM specific] Did you add translations (i18n) for new labels, backend and frontend? Check [the documentation](https://inveniordm.docs.cern.ch/develop/topics/i18n/).
-- [ ] [InvenioRDM specific] Did you add accessibility (a11y) tags? Check [the documentation](https://inveniordm.docs.cern.ch/maintenance/accessibility/).
-- [ ] Did you add documentation? We all love well-documented frameworks, right?
-- [ ] Did you include third-party code (a library, package, etc.)? If yes:
-    - [ ] Make sure that its open source license is compatible with Invenio (*note:* GPL and AGPL licensed code is not accepted)
-    - [ ] Did you respect the license conditions (normally you need to keep the copyright and license header)?
+- [ ] I'm aware of the [code of conduct](https://inveniordm.docs.cern.ch/contribute/code-of-conduct/).
+- [ ] I've created [logical separate commits](https://inveniordm.docs.cern.ch/develop/best-practices/commits/#commits) and followed the [commit message format](https://inveniordm.docs.cern.ch/develop/best-practices/commits/#commit-message).
+- [ ] I've added relevant test cases.
+- [ ] I've added relevant documentation.
+- [ ] I've marked [translation strings](https://inveniordm.docs.cern.ch/develop/best-practices/i18n/) (for relevant code).
+- [ ] I've followed the [CSS/JS](https://inveniordm.docs.cern.ch/develop/best-practices/css-js/) and [React](https://inveniordm.docs.cern.ch/develop/best-practices/react/) guidelines (for relevant code).
+- [ ] I've followed the [web accessibility](https://inveniordm.docs.cern.ch/develop/best-practices/accessibility/) guidelines (for relevant code).
+- [ ] I've followed the [user interface](https://inveniordm.docs.cern.ch/develop/best-practices/ui/) guidelines (for relevant code).
+- [ ] I've identified the [copyright holder(s)](https://inveniordm.docs.cern.ch/contribute/copyright-policy/) and updated copyright headers for touched files (>15 lines contributions).
+- [ ] I've NOT included third-party code (copy/pasted source code or new dependencies).
 
-> Green light on all GitHub Actions status checks is required in order to merge your PR. Check your code additions will fail neither code linting checks nor tests and will not decrease test coverage.
+If you have green light on all GitHub actions status checks and you ticked all the boxes, you're good to go! 🚀
 
-### External contributors
+### Copyright, licenses and third-party code
 
-#### Copyright
+If you've added [third-party code (copy/pasted or new dependencies)](https://inveniordm.docs.cern.ch/develop/best-practices/commits/#third-party-codedependencies), please reach out to an [architect](https://github.com/orgs/inveniosoftware/teams/architects/members).
 
-- [ ] Identify who is the copyright holder (a legal entity - i.e. person or organization - normally this is your employer) for the produced code.
-- [ ] Make sure that you have updated the copyright headers for touched files (non-trivial contributions >15 lines).
-
-See [copyright and license policy](https://invenio.readthedocs.io/en/latest/community/contributing/maintainers-guide/copyright-policy.html) for details.
-
-#### Reminder
+**Reminder**
 
 By using GitHub, you have already agreed to the [GitHub’s Terms of Service](https://help.github.com/articles/github-terms-of-service/#6-contributions-under-repository-license) including that:
 
 1. You license your contribution under the same terms as the current repository’s license.
 2. You agree that you have the right to license your contribution under the current repository’s license.
-
-
-If you ticked all the boxes above, you're good to go! :rocket:
