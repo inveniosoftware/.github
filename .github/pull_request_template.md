@@ -12,7 +12,7 @@ Ticks in all boxes and 🟢 on all GitHub actions status checks are required to 
 - [ ] I've created [logical separate commits](https://inveniordm.docs.cern.ch/develop/best-practices/commits/#commits) and followed the [commit message format](https://inveniordm.docs.cern.ch/develop/best-practices/commits/#commit-message).
 - [ ] I've added relevant test cases.
 - [ ] I've added relevant documentation.
-- [ ] I've marked [translation strings](https://inveniordm.docs.cern.ch/develop/best-practices/i18n/) (for relevant code).
+- [ ] I've marked [translation strings](https://inveniordm.docs.cern.ch/develop/howtos/i18n/) (for relevant code).
 - [ ] I've followed the [CSS/JS](https://inveniordm.docs.cern.ch/develop/best-practices/css-js/) and [React](https://inveniordm.docs.cern.ch/develop/best-practices/react/) guidelines (for relevant code).
 - [ ] I've followed the [web accessibility](https://inveniordm.docs.cern.ch/develop/best-practices/accessibility/) guidelines (for relevant code).
 - [ ] I've followed the [user interface](https://inveniordm.docs.cern.ch/develop/best-practices/ui/) guidelines (for relevant code).
