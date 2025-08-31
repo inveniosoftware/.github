@@ -2,6 +2,7 @@
 name: Bug report
 about: Create a report of a bug
 labels: bug
+type: Bug
 ---
 
 Package version (if known): <version>
