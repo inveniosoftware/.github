@@ -10,7 +10,7 @@
 
 Ticks in all boxes and 🟢 on all GitHub actions status checks are required to merge:
 
-- [ ] I'm aware of the [code of conduct](https://inveniordm.docs.cern.ch/contribute/code-of-conduct/).
+- [ ] I'm aware of the [code of conduct](https://inveniordm.docs.cern.ch/community/code-of-conduct/).
 - [ ] I've created [logical separate commits](https://inveniordm.docs.cern.ch/community/code/best-practices/commits/#commits) and followed the [commit message format](https://inveniordm.docs.cern.ch/community/code/best-practices/commits/#commit-message).
 - [ ] I've added relevant test cases.
 - [ ] I've added relevant documentation.
