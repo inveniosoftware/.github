@@ -25,6 +25,10 @@ Ticks in all boxes and 🟢 on all GitHub actions status checks are required to 
 - [ ] I've followed the [web accessibility](https://inveniordm.docs.cern.ch/community/code/best-practices/accessibility/) guidelines.
 - [ ] I've followed the [user interface](https://inveniordm.docs.cern.ch/community/code/best-practices/ui/) guidelines.
 
+**AI Assistance**
+
+- [ ] I used AI assistance responsibly (if applicable) and reviewed the output to make sure it makes sense for this project.
+
 
 **Reminder**
 
