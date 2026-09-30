@@ -15,6 +15,7 @@ Ticks in all boxes and 🟢 on all GitHub actions status checks are required to 
 - [ ] I've added relevant test cases.
 - [ ] I've added relevant documentation.
 - [ ] I've marked [translation strings](https://inveniordm.docs.cern.ch/community/translations/i18n/).
+    * For translation updates, see the [translation release policy](https://inveniordm.docs.cern.ch/community/translations/translators-guide/#translation-release-policy).
 - [ ] I've identified the [copyright holder(s)](https://inveniordm.docs.cern.ch/community/copyright-policy/) and updated copyright headers for touched files (>15 lines contributions).
 - [ ] I've NOT included third-party code (copy/pasted source code or new dependencies).
     * If you have added [third-party code (copy/pasted or new dependencies)](https://inveniordm.docs.cern.ch/community/code/best-practices/commits/#third-party-codedependencies), please reach out to an [architect on Discord](https://discord.gg/8qatqBC).
